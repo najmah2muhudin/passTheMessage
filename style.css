@@ -1,0 +1,29 @@
+.container
+{
+    background-color: aqua;
+    width: 700px;
+    height: 400px;
+    padding: 6rem;
+}
+.textarea{
+    background-color: whitesmoke;
+    width: 700px;
+    height: 350px;  
+    padding: 2rem; 
+} 
+#input{
+    width: 470px;
+    height: 135px;
+    border-radius: 5px;
+}
+#button{
+    width: 100px;
+    height: 30px;
+    font-size: medium;
+}
+#dlte{
+    width: 95px;
+    height: 25px;
+    font-size: medium;
+}
+
